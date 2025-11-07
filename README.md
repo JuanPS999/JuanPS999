@@ -1,80 +1,74 @@
-<!-- Banner / Frase de impacto -->
+<!-- Elegant banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Audere%20Est%20Facere&width=800&height=120" alt="Audere Est Facere"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=00C7A9&center=true&vCenter=true&width=600&lines=Audere+Est+Facere;To+dare+is+to+do." alt="Audere Est Facere">
 </p>
 
-<!-- Header -->
-<h1 align="center">Hello there, I'm Juan</h1>
-<h3 align="center">💻 Computer Science Student | 🛡️ Cybersecurity Enthusiast | 🌍 Brazil</h3>
+<h1 align="center">Juan Pereira Santos</h1>
+<h3 align="center">Computer Science Student • Cybersecurity Enthusiast</h3>
 
 ---
 
-### 🧭 About Me
-I'm a passionate student of **Computer Science** and an aspiring **Cybersecurity professional**.  
-I love exploring how systems work, finding vulnerabilities, and building tools that make tech safer — and smarter.  
-Currently studying at **Universidade Estadual da Bahia (UESB)**, while creating personal and academic projects to sharpen my skills.
+### About Me
+I’m a **Computer Science student** with a deep interest in **Cybersecurity** and **technology as a whole**.  
+My focus lies in understanding systems — both how they’re built and how they can be broken.  
+Between code and command lines, I explore the thin line between creation and exploitation.  
 
-- 🔍 Interested in ethical hacking, system security, and digital forensics  
-- ⚙️ Also developing software and automation projects  
-- 🌱 Constantly learning about networks, Linux, and low-level systems  
-- 🎯 Goal: to work abroad (especially in **Germany**) in the cybersecurity field  
+- Currently studying at **Universidade Estadual da Bahia (UESB)**  
+- Focused on **ethical hacking**, **network security**, and **automation**  
+- Working with **Linux environments**, **low-level programming**, and **forensics**  
+- Preparing for an international career, with **Germany** in my sights  
 
 ---
 
-### ⚒️ Tech Stack
+### Tools & Technologies
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/C/C++-111111?style=for-the-badge&logo=c&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnu-bash&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-111111?style=for-the-badge&logo=arch-linux&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/Neovim-111111?style=for-the-badge&logo=neovim&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00C7A9"/>
+  <img src="https://img.shields.io/badge/WSL2-111111?style=for-the-badge&logo=windows-terminal&logoColor=00C7A9"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### Statistics
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanPS999&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C7A9&text_color=CCCCCC&icon_color=00C7A9"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPS999&layout=compact&hide_border=true&bg_color=00000000&title_color=00C7A9&text_color=CCCCCC"/>
 </p>
 
 ---
 
-### 🧠 Current Focus
-- Learning **network analysis** and **exploit development**
-- Improving my **Linux workflow** and **scripting**
-- Developing security-related projects (automations, pentesting tools, and small utilities)
+### Current Focus
+> “Security is not about paranoia — it's about awareness.”
+
+- Studying **network analysis** and **vulnerability exploitation**  
+- Building personal **security tools** and **Linux utilities**  
+- Deepening knowledge in **system internals** and **defensive tactics**  
 
 ---
 
-### 📬 Connect with Me
+### Contact
 <p align="center">
-  <a href="mailto:juanprs077@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:juanprs077@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00C7A9" />
   </a>
-  <a href="https://github.com/JuanPS999" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/JuanPS999">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00C7A9" />
   </a>
 </p>
 
 ---
 
-<!-- Snake animation -->
+<!-- Optional snake animation -->
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/JuanPS999/JuanPS999/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
-<!-- Footer -->
 <p align="center">
-  <sub>“Audere Est Facere” – To dare is to do.</sub>
+  <sub><i>“Audere Est Facere” — To dare is to do.</i></sub>
 </p>
