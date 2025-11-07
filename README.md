@@ -79,3 +79,7 @@ Between code and command lines, I explore the thin line between creation and exp
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=1&section=footer&reversal=false"/>
 </p>
+
+<p align="center">
+  <sub><i>Per Aspera Ad Astra.</i></sub>
+</p>
