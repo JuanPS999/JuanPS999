@@ -9,7 +9,7 @@
 
 ### About Me
 I’m a **Computer Science student** with a deep interest in **Cybersecurity** and **technology as a whole**.  
-My focus lies in understanding systems — both how they’re built and how they can be broken.  
+My focus lies in understanding systems, both how they’re built and how they can be broken.  
 Between code and command lines, I explore the thin line between creation and exploitation.  
 
 - Currently studying at **Universidade Estadual da Bahia (UESB)**  
