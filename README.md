@@ -1,4 +1,3 @@
-<!-- Elegant banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=00C7A9&center=true&vCenter=true&width=600&lines=Audere+Est+Facere;To+dare+is+to+do." alt="Audere Est Facere">
 </p>
@@ -64,9 +63,8 @@ Between code and command lines, I explore the thin line between creation and exp
 
 ---
 
-<!-- Optional snake animation -->
 <p align="center">
-  <img src="https://github.com/JuanPS999/JuanPS999/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/JuanPS999/JuanPS999/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
