@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=00C7A9&center=true&vCenter=true&width=600&lines=Audere+Est+Facere;To+dare+is+to+do." alt="Audere Est Facere">
 </p>
 
-<h1 align="center">Juan Pereira Santos</h1>
+<h1 align="center">Juan Prado Da Silva</h1>
 <h3 align="center">Computer Science Student • Cybersecurity Enthusiast</h3>
 
 ---
