@@ -57,15 +57,6 @@ Between code and command lines, I explore the thin line between creation and exp
 
 ---
 
-### Current Focus
-> “Security is not about paranoia — it's about awareness.”
-
-- Studying **network analysis** and **vulnerability exploitation**  
-- Building personal **security tools** and **Linux utilities**  
-- Deepening knowledge in **system internals** and **defensive tactics**  
-
----
-
 ### Contact
 <p align="center">
   <a href="mailto:juanprs077@gmail.com">
