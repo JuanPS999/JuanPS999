@@ -9,11 +9,11 @@
 </p>
 
 <h1 align="center">Juan Prado Da Silva</h1>
-<h3 align="center">Computer Science Student • Cybersecurity Enthusiast</h3>
+<h3 align="center">Computer Science • Cybersecurity</h3>
 
 <p align="center">
   <samp>
-    Exploring the line between creation and destruction.
+    If it works, I want to know why. If it breaks, even more.
   </samp>
 </p>
 
@@ -22,10 +22,8 @@
 ### About Me
 I’m a **Computer Science student** with a deep interest in **Cybersecurity** and **technology as a whole**.  
 My focus lies in understanding systems, both how they’re built and how they can be broken.  
-Between code and command lines, I explore the thin line between creation and exploitation.  
 
 - Currently studying at **Universidade Estadual da Bahia (UESB)**  
-- Focused on **ethical hacking**, **network security**, and **automation**  
 - Working with **Linux environments**, **low-level programming**, and **forensics**  
 - Preparing for an international career, with **Germany** in my sights  
 
@@ -46,13 +44,6 @@ Between code and command lines, I explore the thin line between creation and exp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanPS999&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPS999&layout=compact&theme=gruvbox&hide_border=true&hide_title=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JuanPS999/JuanPS999/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
